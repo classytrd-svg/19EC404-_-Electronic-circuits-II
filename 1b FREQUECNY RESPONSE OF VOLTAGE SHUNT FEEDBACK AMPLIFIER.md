@@ -32,11 +32,11 @@
 Thus the voltage shunt feedback amplifier is designed and constructed  and the following parameters are calculated.
 | S.No | Parameters | Without Feedback | With Feedback |
 |:----:|-------------|:----------------:|:--------------:|
-| 1 | Lower cut-off frequency | = | = |
-| 2 | Upper cut-off frequency | = | = |
-| 3 | Bandwidth | \( BW = fh - fl = \) | \( BW = f'h - f'l = \) |
-| 4 | Mid-band Gain | \( A{v(mid)} = \) | \( A'{v(mid)} = \) |
-| 5 | Gain at half power point |  |  |
+| 1 | Lower cut-off frequency | f1=0.500khz | f1=2khz |
+| 2 | Upper cut-off frequency | f2=1mhz | f2=600k |
+| 3 | Bandwidth | \( BW = fh - fl =999.5khz \) | \( BW = f'h - f'l =598khz \) |
+| 4 | Mid-band Gain | \( A{v(mid)} =1.26v \) | \( A'{v(mid)} =520mhz \) |
+| 5 | Gain at half power point | 0.890 | 0.3 |
 
 ---
 

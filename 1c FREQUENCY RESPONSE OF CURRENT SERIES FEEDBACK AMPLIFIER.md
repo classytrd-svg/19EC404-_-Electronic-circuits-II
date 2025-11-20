@@ -33,11 +33,11 @@
 Thus the current series  feedback amplifier is designed and constructed  and the following parameters are calculated.
 | S.No | Parameters | Without Feedback | With Feedback |
 |:----:|-------------|:----------------:|:--------------:|
-| 1 | Lower cut-off frequency | = | = |
-| 2 | Upper cut-off frequency | = | = |
-| 3 | Bandwidth | \( BW = fh - fl = \) | \( BW = f'h - f'l = \) |
-| 4 | Mid-band Gain | \( A{v(mid)} = \) | \( A'{v(mid)} = \) |
-| 5 | Gain at half power point |  |  |
+| 1 | Lower cut-off frequency | f1=5hz | f1=3.5khz |
+| 2 | Upper cut-off frequency | f2=1.5mhz | f2=550khz |
+| 3 | Bandwidth | \( BW = fh - fl =1.495mhz \) | \( BW = f'h - f'l = 546.5khz\) |
+| 4 | Mid-band Gain | \( A{v(mid)} = 26.52\) | \( A'{v(mid)} = 11.12\) |
+| 5 | Gain at half power point | 18.75 | 7.86 |
 
 ---
 

@@ -1,5 +1,5 @@
 ## Exp. No. 3(b)
-**Date:27/9/25**  
+**Date:29/9/25**  
 
 ## DESIGN OF COLPITTS OSCILLATOR 
 <img width="524" height="707" alt="image" src="https://github.com/user-attachments/assets/0c63bf2d-f37a-46bf-a132-aec6a8f6dbb7" />
